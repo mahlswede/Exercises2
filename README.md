@@ -1,5 +1,5 @@
-# Exercises2
+## Exercises2
 Datascience Exercises
 
-Martina Ahlswede
+Martina Ahlswede  
 Data Science (BHTB MIM 12 S18)
